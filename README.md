@@ -150,14 +150,5 @@ terraform init
 Feel free to submit issues or suggestions to improve this project.
 
 ---
-## Author
-
-Kevin Orellana
-- [LinkedIn](https://www.linkedin.com/in/kevin-orellana-6457aa252/)
-- [Medium](https://medium.com/@kevinn.orellana01/building-and-deploying-a-scalable-next-js-portfolio-website-on-aws-with-terraform-e40782397f9b)
-  
-
-
-
 
 
