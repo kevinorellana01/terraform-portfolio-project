@@ -1,5 +1,3 @@
-# terraform-portfolio-project
-
 # Portfolio Website Deployment with AWS and Terraform
 
 This repository contains the deployment files for James Smith's portfolio website, created using the Next.js framework. The deployment leverages AWS services and Infrastructure as Code (IaC) using Terraform for automation and scalability.
